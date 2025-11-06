@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Mustafa - DevOps Engineer</h1>
+        <h1>sravani - DevOps Engineer</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
@@ -178,7 +178,7 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Mustafa, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
+        <p>Hello! I'm sravani, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS.</p>
     </section>
 
     <section id="skills" class="skills">
@@ -188,7 +188,7 @@
             <li>Containerization - Docker</li>
             <li>Orchestration - Kubernetes</li>
             <li>Infrastructure as Code - Terraform</li>
-            <li>Cloud Platforms - AWS, Azure</li>
+            <li>Cloud Platforms - AWS </li>
             <li>Monitoring - Prometheus, Grafana</li>
         </ul>
     </section>
@@ -220,7 +220,7 @@
     </section>
 
     <footer>
-        <p>© 2024 Mustafa | DevOps Engineer Portfolio | <a href="#about">Back to Top</a></p>
+        <p>© 2025 sravani | DevOps Engineer Portfolio | <a href="#about">Back to Top</a></p>
     </footer>
 </body>
 </html>
